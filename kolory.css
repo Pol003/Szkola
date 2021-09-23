@@ -1,0 +1,29 @@
+ body
+{
+margin:auto
+}
+#gorny
+{background-color: #d12b00;
+text-align: center;
+height: 50px;
+
+}
+#lewy
+{
+background-color: #fd182a;
+height: 400px;
+width: 75%;
+}
+#prawy
+{
+background-color: #fddd58;
+height: 300px;
+width: 75%;
+float: left;
+}
+#dolny
+{
+clear: both;
+background-color: #b70000;
+text-align: right;
+}
